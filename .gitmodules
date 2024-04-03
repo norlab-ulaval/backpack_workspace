@@ -1,0 +1,52 @@
+[submodule "src/backpack_description"]
+	path = src/backpack_description
+	url = git@github.com:norlab-ulaval/backpack_description.git
+	branch = melodic
+[submodule "src/backpack_launchers"]
+	path = src/backpack_launchers
+	url = git@github.com:norlab-ulaval/backpack_launchers.git
+	branch = melodic
+[submodule "src/backpack_microcontrollers"]
+	path = src/backpack_microcontrollers
+	url = git@github.com:norlab-ulaval/backpack_microcontrollers.git
+	branch = melodic
+[submodule "src/tools/norlab_imu_tools"]
+	path = src/tools/norlab_imu_tools
+	url = git@github.com:norlab-ulaval/norlab_imu_tools.git
+	branch = melodic
+[submodule "src/tools/imu_tools"]
+	path = src/tools/imu_tools
+	url = git@github.com:norlab-ulaval/imu_tools.git
+	branch = melodic
+[submodule "src/mapping/backpack_mapping"]
+	path = src/mapping/backpack_mapping
+	url = git@github.com:norlab-ulaval/backpack_mapping.git
+	branch = melodic
+[submodule "src/mapping/imu_odom"]
+	path = src/mapping/imu_odom
+	url = git@github.com:norlab-ulaval/imu_odom.git
+	branch = melodic
+[submodule "src/mapping/libpointmatcher_ros"]
+	path = src/mapping/libpointmatcher_ros
+	url = git@github.com:norlab-ulaval/libpointmatcher_ros.git
+	branch = melodic
+[submodule "src/mapping/norlab_icp_mapper_ros"]
+	path = src/mapping/norlab_icp_mapper_ros
+	url = git@github.com:norlab-ulaval/norlab_icp_mapper_ros.git
+	branch = melodic
+[submodule "src/backpack_sensors/velodyne"]
+	path = src/backpack_sensors/velodyne
+	url = git@github.com:norlab-ulaval/velodyne.git
+	branch = melodic
+[submodule "src/backpack_sensors/norlab_basler_camera_driver"]
+	path = src/backpack_sensors/norlab_basler_camera_driver
+	url = git@github.com:norlab-ulaval/norlab_basler_camera_driver.git
+	branch = compressed_images
+[submodule "src/backpack_sensors/nmea_navsat_driver"]
+	path = src/backpack_sensors/nmea_navsat_driver
+	url = git@github.com:norlab-ulaval/nmea_navsat_driver.git
+	branch = melodic-devel
+[submodule "src/backpack_sensors/ethzasl_xsens_driver"]
+	path = src/backpack_sensors/ethzasl_xsens_driver
+	url = git@github.com:norlab-ulaval/ethzasl_xsens_driver.git
+	branch = melodic
