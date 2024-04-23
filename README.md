@@ -19,7 +19,7 @@
 | VLP-16 3D lidar           | [Link](https://velodynelidar.com/products/puck/)                       |
 | Emlid Reach RS+ GPS receiver     | [Link](https://emlid.com/wp-content/uploads/2023/06/Reach_RS_RS_User_Documentation.pdf)          |
 
-## User tools
+### User tools
 | Material                        |                    URL                  |
 | :---                             |                      :---                         |
 | Ubiquiti UniFi UAP-AC-M Wi-Fi antenna             | [Link](https://ca.store.ui.com/ca/en/collections/unifi-wifi-outdoor-long-range/products/uap-ac-mesh)                       |
@@ -27,7 +27,7 @@
 | LCD screen               | [Link](https://www.digikey.ca/en/products/detail/newhaven-display-intl/NHD-0420H1Z-FSW-GBW-33V3/2773595?s=N4IgTCBcDaIHIAkAiBaADAFjGhBGAWigGIDKA6igOIBCFAzHQGp0gC6AvkA)                      |
 | Switch pushbutton              | [Link](https://www.digikey.ca/en/products/detail/e-switch/PVA6LRE21241/7423419)                      |
 
-## System Hardware Overview
+### System Hardware Overview
 | Material                        |                    URL                  |
 | :---                             |                      :---                         |
 | NVIDIA Jetson Xavier AGX Developer Kit           | [Link](https://www.amazon.ca/NVIDIA-Jetson-Xavier-Developer-32GB/dp/B083ZL3X5B)                       |
