@@ -15,6 +15,7 @@
 | Material                        |                    URL                  |
 | :---                             |                      :---                         |
 | Basler a2A1920-51gcPRO cameras (x2)             | [Link](https://www.baslerweb.com/en/shop/a2a1920-51gcpro/)                       |
+| Basler lens (x2)             | [Link]([https://www.baslerweb.com/en/shop/a2a1920-51gcpro/](https://www.baslerweb.com/en/shop/basler-lens-c125-0418-5m-p-f4mm/))                       |
 | Xsens MTI-30 IMU                 | [Link](https://www.mouser.ca/ProductDetail/Movella-Xsens/MTi-30-2A8G4?qs=1mbolxNpo8cPcuq05Ezcgg%3D%3D&_gl=1*1jj0dib*_ga*MjAwMzkyNDY2NC4xNzEzODgxMTA2*_ga_15W4STQT4T*MTcxMzg4MTEwNi4xLjAuMTcxMzg4MTEwNi42MC4wLjA.)                      |
 | VLP-16 3D lidar           | [Link](https://velodynelidar.com/products/puck/)                       |
 | Emlid Reach RS+ GPS receiver     | [Link](https://emlid.com/wp-content/uploads/2023/06/Reach_RS_RS_User_Documentation.pdf)          |
