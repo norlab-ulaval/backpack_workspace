@@ -23,7 +23,7 @@
 ### User tools
 | Material                        |                    URL                  |
 | :---                             |                      :---                         |
-| Ubiquiti UniFi UAP-AC-M Wi-Fi antenna             | [Link](https://ca.store.ui.com/ca/en/collections/unifi-wifi-outdoor-long-range/products/uap-ac-mesh)                       |
+| Ubiquiti UniFi UAP-AC-M Wi-Fi antenna             | [Link](https://www.amazon.ca/Ubiquiti-UniFi-UAP-AC-M-2-4GHz-5GHz/dp/B01NAAWOGO/ref=asc_df_B01NAAWOGO/?tag=googleshopc0c-20&linkCode=df0&hvadid=579642511855&hvpos=&hvnetw=g&hvrand=12635800463262394955&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000264&hvtargid=pla-586878468714&psc=1&mcid=d23f5fd3b6a03c9b97cda2ff1bd48b56)                       |
 | Android Tablet (to complete)                 | [Link]()                      |
 | LCD screen               | [Link](https://www.digikey.ca/en/products/detail/newhaven-display-intl/NHD-0420H1Z-FSW-GBW-33V3/2773595?s=N4IgTCBcDaIHIAkAiBaADAFjGhBGAWigGIDKA6igOIBCFAzHQGp0gC6AvkA)                      |
 | Switch pushbutton              | [Link](https://www.digikey.ca/en/products/detail/e-switch/PVA6LRE21241/7423419)                      |
