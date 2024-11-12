@@ -33,3 +33,4 @@
 [submodule "tools/norlab_imu_tools"]
 	path = tools/norlab_imu_tools
 	url = git@github.com:norlab-ulaval/norlab_imu_tools.git
+	branch = melodic
