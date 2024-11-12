@@ -1,0 +1,13 @@
+[Unit]
+Description=Service script launching backpack_description
+Requires=networking.service
+
+[Service]
+Type=forking
+User=robot
+ExecStart=/home/robot/ros_ws/src/backpack_workspace/startup/scripts/launch_description.sh
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=default.target

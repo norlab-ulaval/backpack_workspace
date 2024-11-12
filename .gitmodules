@@ -1,0 +1,35 @@
+[submodule "backpack_description"]
+	path = backpack_description
+	url = git@github.com:norlab-ulaval/backpack_description.git
+	branch = melodic
+[submodule "backpack_launchers"]
+	path = backpack_launchers
+	url = git@github.com:norlab-ulaval/backpack_launchers.git
+	branch = melodic
+[submodule "backpack_microcontrollers"]
+	path = backpack_microcontrollers
+	url = git@github.com:norlab-ulaval/backpack_microcontrollers.git
+	branch = melodic
+[submodule "backpack_sensors/ethzasl_xsens_driver"]
+	path = backpack_sensors/ethzasl_xsens_driver
+	url = git@github.com:norlab-ulaval/ethzasl_xsens_driver.git
+	branch = melodic
+[submodule "backpack_sensors/nmea_navsat_driver"]
+	path = backpack_sensors/nmea_navsat_driver
+	url = git@github.com:norlab-ulaval/nmea_navsat_driver.git
+	branch = melodic-devel
+[submodule "backpack_sensors/norlab_basler_camera_driver"]
+	path = backpack_sensors/norlab_basler_camera_driver
+	url = git@github.com:norlab-ulaval/norlab_basler_camera_driver.git
+	branch = compressed_images
+[submodule "backpack_sensors/velodyne"]
+	path = backpack_sensors/velodyne
+	url = git@github.com:norlab-ulaval/velodyne.git
+	branch = melodic
+[submodule "tools/imu_tools"]
+	path = tools/imu_tools
+	url = git@github.com:norlab-ulaval/imu_tools.git
+	branch = melodic
+[submodule "tools/norlab_imu_tools"]
+	path = tools/norlab_imu_tools
+	url = git@github.com:norlab-ulaval/norlab_imu_tools.git
