@@ -7,7 +7,7 @@ screen -S $screen_name -X stuff $'\003'
 source /opt/ros/melodic/setup.bash
 source /home/robot/ros_ws/devel/setup.bash
 
-sleep 1
+sleep 5
 
 echo "Starting Foxglove bridge..."
 screen -dmS $screen_name roslaunch foxglove_bridge foxglove_bridge.launch send_buffer_limit:=1000000000

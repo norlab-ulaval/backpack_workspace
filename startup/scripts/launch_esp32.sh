@@ -7,7 +7,7 @@ screen -S $screen_name -X stuff $'\003'
 source /opt/ros/melodic/setup.bash
 source /home/robot/ros_ws/devel/setup.bash
 
-sleep 1
+sleep 5
 
 echo "Starting the ESP32..."
 screen -dmS $screen_name roslaunch backpack_microcontrollers esp32.launch 
